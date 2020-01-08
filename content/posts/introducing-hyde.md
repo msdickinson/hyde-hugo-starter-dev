@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Introducing Hyde
-date: 2013-12-28 00:00:00 +0000
+date: 2013-12-28T00:00:00.000+00:00
 
 ---
-Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name.
-It pairs a prominent sidebar with uncomplicated content.
+Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name. It pairs a prominent sidebar with uncomplicated content.TESTST
 
 ### Hyde features
 
